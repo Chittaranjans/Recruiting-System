@@ -32,9 +32,9 @@ The API is organized around the following resources:
 - `/api/v1/notifications/*`: Notification system
 
 <div align="center">
-  <img src="Screenshot 2025-03-27 171353.png" alt="API Documentation" width="300px" style="margin: 10px" />
-  <img src="Screenshot 2025-03-27 171416.png" alt="Endpoints" width="300px" style="margin: 10px" />
-  <img src="Screenshot 2025-03-27 171436.png" alt="API Schema" width="300px" style="margin: 10px" />
+  <img src="public/Screenshot 2025-03-27 171353.png" alt="API Documentation" width="300px" style="margin: 10px" />
+  <img src="public/Screenshot 2025-03-27 171416.png" alt="Endpoints" width="300px" style="margin: 10px" />
+  <img src="public/Screenshot 2025-03-27 171436.png" alt="API Schema" width="300px" style="margin: 10px" />
 </div>
 
 ## 🔧 Setup and Installation
@@ -101,4 +101,4 @@ Coming soon.
 
 ## 📱 Frontend Repository
 
-The frontend for this application is available at: 
+The frontend for this application is available at: [https://github.com/Chittaranjans/Recruiter-board]
